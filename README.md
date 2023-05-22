@@ -1,3 +1,3 @@
 # spectrum_split
 
-A new Flutter project.
+A flutter app to split pdf pages into b&w and colour
